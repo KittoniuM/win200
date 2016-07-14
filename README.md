@@ -25,3 +25,6 @@ Xor 'encryption'
 Checksum CRC for checking CRC
 SDK - for hack to work
 Drawing Class for draw
+
+
+BTW U WILL NEED CUSTOM VISUAL STUDIO PATCH, KC++11
